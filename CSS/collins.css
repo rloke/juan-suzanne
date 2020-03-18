@@ -1,0 +1,131 @@
+@charset "utf-8";
+img{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+    max-width: 100%;
+    max-height:100%;
+
+}
+nav .active {
+	border-bottom: solid rgba(175,113,85,1.00);
+}
+
+.row{
+	width: 100%;
+}
+
+colapse nav-link{
+	text-decoration-line: white;
+}
+#accordion .card-header{
+	background: #25492E;
+}
+.container{
+	background:#EFE7DE; 
+}
+.card-body{
+	background: #EFE7DE;
+}
+.h3{
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Bebas Neue', cursive;
+}
+
+.col{
+	padding: 50px;
+}
+h6{
+	text-align: center;
+}
+p{
+	border: thin;
+	margin: auto;	
+}
+ .header {
+    width: 100%;
+    background:#EFE7DE;
+    height: 100px;
+}
+/*#main{
+	z-index:3;
+}*/
+
+
+.button{
+  background-color:#C54E1F; 
+  border: none;
+  color: white;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 20px;
+}
+
+.image{
+	    height: auto;
+		margin: auto;
+	}
+p{
+	text-align: center;
+	
+}
+.col-sm-6{
+	align-content: center;
+}
+h1{
+	text-align: center;
+}
+h3{
+	text-align: center;
+}
+h5{
+	text-align: center;
+}
+/*=====Footer
+=========*/
+footer {
+	margin-top: 50px;
+    background-color: #EFE7DE;
+}
+
+
+
+footer p {
+	color: #000000;
+	font-size: 14px;
+	text-align: center;
+}
+
+
+
+
+@media	(min-width:	768px){
+	body{
+		background-color: green;
+	}
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+p{
+	text-align: left;
+	}
+col{
+	padding: 50px;
+}
+h1{
+	text-align: center;
+}
+h3{
+	text-align: center;
+}
+
+
+
